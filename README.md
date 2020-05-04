@@ -1,2 +1,2 @@
 # dotfiles
-# ~this is example of README file
+this is example of README file
